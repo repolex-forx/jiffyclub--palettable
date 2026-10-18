@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/jiffyclub/palettable/commit/de1760e713a27ee65631e2b981293e9c5e03bb34",
       "git:hexsha": "de1760e713a27ee65631e2b981293e9c5e03bb34",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T14:25:58.517419+00:00"
     },
     {
       "@id": "https://repolex.ai/r/jiffyclub/palettable/commit/cbecc8b4138aca44bc06767805db268847f52ca9",
